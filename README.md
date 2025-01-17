@@ -12,5 +12,9 @@ Store files in the table in Blob ( Upload and Download files)
 * Update the file path for downloading to local drive from HANA Cloud Table
 
 
-
+### usage
+* Run the python command in command line
+    ```
+    python file_upload.py
+    ```
 
