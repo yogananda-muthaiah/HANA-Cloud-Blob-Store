@@ -1,8 +1,7 @@
 # SAP HANA Cloud Blob Store
 Store files in the table in Blob ( Upload and Download files)
 
-## Blog - [Storing and Retrieving Files in SAP HANA Cloud as BLOB with Python](https://community.sap.com/t5/technology-blogs-by-sap/storing-and-retrieving-files-in-sap-hana-cloud-as-blob-with-python/ba-p/13989676)
-
+## 📖 Blog - [Storing and Retrieving Files in SAP HANA Cloud as BLOB with Python](https://community.sap.com/t5/technology-blogs-by-sap/storing-and-retrieving-files-in-sap-hana-cloud-as-blob-with-python/ba-p/13989676)
 
 ### 🛠️ Setting Up Your Environment
 
